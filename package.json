@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phishing-hunter/phishing-blocker.git"
+    "url": "git+https://github.com/HimanshuxSaini/phishing-blocker.git"
   },
   "keywords": [
     "phishing",
@@ -17,7 +17,7 @@
   "author": "tatsui <2360691+tatsu-i@users.noreply.github.com> (https://github.com/phishing-hunter/phishing-blocker)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/phishing-hunter/phishing-blocker/issues"
+    "url": "https://github.com/HimanshuxSaini/phishing-blocker/issues"
   },
-  "homepage": "https://github.com/phishing-hunter/phishing-blocker#readme"
+  "homepage": "https://github.com/HimanshuxSaini/phishing-blocker#readme"
 }
