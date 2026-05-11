@@ -1,6 +1,6 @@
 {
-  "name": "phishing-blocker",
-  "version": "0.1.2",
+  "name": "himanshuxsaini-phishing-blocker",
+  "version": "1.0.0",
   "description": "Just install it to display an alert when the HTML code is copied to a phishing site.",
   "main": "index.js",
   "scripts": {
