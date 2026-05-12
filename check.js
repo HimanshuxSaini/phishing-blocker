@@ -2,7 +2,7 @@ const { scoreURL } = require("./engine/phishingEngine");
 const { decide } = require("./engine/decisionEngine");
 
 const testUrls = [
-  "paypaI.com",
+  "paypaal.com",
   "chatfakelogin.tk",
   "paypal.login-secure.com",
   "secure-google-login.tk",
